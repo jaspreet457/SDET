@@ -12,14 +12,10 @@
     <option value="wild burger joint">wild burger joint</option>
 	<option value="Fried Rice">Fried Rice</option>
     <option value="veggi patty">veggi patty</option>
-    
-	
-	 
-  </select><br><br>
+     </select><br><br>
   <input type="submit" value="Submit">
+
 </form>
-
-
 
 </body>
 </html>
